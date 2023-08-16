@@ -12,19 +12,6 @@ Este é um projeto simples de uma Pokédex web, onde os usuários podem explorar
 **JavaScript**
 **PokeAPI**: API utilizada para obter informações sobre os Pokémon.
 
-## Estrutura do Projeto
-
-pokedex/
-├── assets/
-│   ├── css/
-│   │   ├── global.css
-│   │   ├── pokedex.css
-│   ├── js/
-│   │   ├── pokemon_model.js
-│   │   ├── poke.api.js
-│   │   ├── main.js
-├── index.html
-
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um Pull Request.
 
